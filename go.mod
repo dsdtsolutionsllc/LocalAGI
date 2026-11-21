@@ -30,7 +30,7 @@ require (
 	github.com/slack-go/slack v0.17.3
 	github.com/spf13/cobra v1.10.2
 	github.com/thoj/go-ircevent v0.0.0-20210723090443-73e444401d64
-	github.com/tmc/langchaingo v0.1.14
+	github.com/tmc/langchaingo v0.1.15
 	github.com/traefik/yaegi v0.16.1
 	github.com/valyala/fasthttp v1.68.0
 	golang.org/x/crypto v0.50.0
